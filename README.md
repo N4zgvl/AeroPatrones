@@ -30,7 +30,8 @@ Framework	.NET 8 / ASP.NET MVC
 IDE recomendado	Visual Studio 2022
 Documentación	PDF + README
 Patrón arquitectónico	MVC + Repository + Services
-Buenas prácticas	SOLID, DRY, KISS, Clean Code
+Buenas prácticas
+
 🔍 Problemas detectados en la versión original
 
 Código acoplado y dependiente entre controladores y modelo.
