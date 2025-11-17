@@ -68,7 +68,7 @@ Ausencia de separación clara por capas.
 
 1️⃣ Clonar el repositorio
 
-git clone https://github.com/tu-repo/AirportCCM.git
+git clone https://github.com/N4zgvl/AeroPatrones.git
 
 
 2️⃣ Restaurar dependencias
