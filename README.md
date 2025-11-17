@@ -83,6 +83,6 @@ dotnet run --project src/AirportCCM.Web
 👨‍💻 Autor
 Nombre:	José Guadalupe Rodríguez Sastre
 Carrera	Ingeniería en Informática
-Institución	Instituto Tecnológico Nacional de México
+Instituto Tecnológico de Tijuana
 
 📄 Licencia MIT
